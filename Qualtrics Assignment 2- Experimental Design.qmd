@@ -54,3 +54,7 @@ I removed the numbers from the answer choices to make the question look a lot cl
 ![](images/Removed Numbers from Answers proof.png)
 
 ## Appendix: 
+
+[Github Repo](https://github.com/lahumada63/Qualtrics-M02---Setting-up-an-Experimental-Design.git)
+
+Github HTML
