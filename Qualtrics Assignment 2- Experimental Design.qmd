@@ -57,4 +57,4 @@ I removed the numbers from the answer choices to make the question look a lot cl
 
 [Github Repo](https://github.com/lahumada63/Qualtrics-M02---Setting-up-an-Experimental-Design.git)
 
-Github HTML
+[Github HTML](https://lahumada63.github.io/Qualtrics-M02---Setting-up-an-Experimental-Design/)
